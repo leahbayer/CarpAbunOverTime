@@ -1,2 +1,6 @@
 # CarpAbunOverTime
-Silver Carp monitoring often lacks enough sampling to detect real population changes, especially when carp are rare. Using realistic catch data, we estimated how many samples are needed to detect trends and built a web tool to help managers design efficient monitoring.
+
+
+## Purpose of Repository
+
+This repository contains data, code, and documentation for simulating and detecting percent changes in adult Silver Carp relative abundance over time using Negative Binomial GLMs and power analyses. These models are designed for evaluating statistical power under various temporal trends and sampling scenarios in the sub-basins of the Mississippi River Basin. Additionally, accompanying Shiny application provides a transferable decision-support tool that can be adapted to other species, sampling gears, and scenarios involving either declines or increases in abundance.
