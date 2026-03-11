@@ -18,6 +18,7 @@ library(DT) # interactive data tables
 library(shinyWidgets) # widgets
 library(plotly) # interactive ggplot
 library(shinyBS) # help buttons
+library(rsconnect)
 
 
 # ------------------------ Helper functions  -------------------------------
